@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ticket2calendar/static/css/main.d1b05096.chunk.css",
-    "main.js": "/ticket2calendar/static/js/main.6c920777.chunk.js",
-    "main.js.map": "/ticket2calendar/static/js/main.6c920777.chunk.js.map",
-    "runtime-main.js": "/ticket2calendar/static/js/runtime-main.8f901e58.js",
-    "runtime-main.js.map": "/ticket2calendar/static/js/runtime-main.8f901e58.js.map",
-    "static/js/2.999088f1.chunk.js": "/ticket2calendar/static/js/2.999088f1.chunk.js",
-    "static/js/2.999088f1.chunk.js.map": "/ticket2calendar/static/js/2.999088f1.chunk.js.map",
-    "index.html": "/ticket2calendar/index.html",
-    "precache-manifest.1bf33aa29a54b5db18e84c71101e0909.js": "/ticket2calendar/precache-manifest.1bf33aa29a54b5db18e84c71101e0909.js",
-    "service-worker.js": "/ticket2calendar/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/ticket2calendar/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.999088f1.chunk.js.LICENSE": "/ticket2calendar/static/js/2.999088f1.chunk.js.LICENSE",
-    "static/media/logo.svg": "/ticket2calendar/static/media/logo.5d5d9eef.svg"
+    "main.css": "/boarding-pass-scanner/static/css/main.d1b05096.chunk.css",
+    "main.js": "/boarding-pass-scanner/static/js/main.84802fb6.chunk.js",
+    "main.js.map": "/boarding-pass-scanner/static/js/main.84802fb6.chunk.js.map",
+    "runtime-main.js": "/boarding-pass-scanner/static/js/runtime-main.ae57ce1b.js",
+    "runtime-main.js.map": "/boarding-pass-scanner/static/js/runtime-main.ae57ce1b.js.map",
+    "static/js/2.c1a9b7ef.chunk.js": "/boarding-pass-scanner/static/js/2.c1a9b7ef.chunk.js",
+    "static/js/2.c1a9b7ef.chunk.js.map": "/boarding-pass-scanner/static/js/2.c1a9b7ef.chunk.js.map",
+    "index.html": "/boarding-pass-scanner/index.html",
+    "precache-manifest.5b376a08bf91c825484d6f27c0e74066.js": "/boarding-pass-scanner/precache-manifest.5b376a08bf91c825484d6f27c0e74066.js",
+    "service-worker.js": "/boarding-pass-scanner/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/boarding-pass-scanner/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.c1a9b7ef.chunk.js.LICENSE": "/boarding-pass-scanner/static/js/2.c1a9b7ef.chunk.js.LICENSE",
+    "static/media/logo.svg": "/boarding-pass-scanner/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8f901e58.js",
-    "static/js/2.999088f1.chunk.js",
+    "static/js/runtime-main.ae57ce1b.js",
+    "static/js/2.c1a9b7ef.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.6c920777.chunk.js"
+    "static/js/main.84802fb6.chunk.js"
   ]
 }
